@@ -1,5 +1,7 @@
 # Vitrina de trofeos
-![Trophies](https://github-profile-trophy.vercel.app/?username=Enrique23f&row=2&column=3&theme=tokyonight&no-bg=true&no-frame=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Enrique23f&row=2&column=3&theme=tokyonight&no-bg=true&no-frame=true" />
+</p>
 
 # Estadísticas
 ![StatTrack](https://github-readme-stats.vercel.app/api?username=Enrique23f&count_private=true&show_icons=true&include_all_commits=true&locale=es&theme=tokyonight&hide_border=true)
