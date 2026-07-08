@@ -81,11 +81,11 @@ Estoy trabajando en nuevos proyectos personales para seguir practicando desarrol
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enrique23f\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enrique23f&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique23f\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique23f&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Enrique23f\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Enrique23f&theme=tokyonight&hide_border=true)
 
 </div>
 
